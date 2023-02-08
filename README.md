@@ -1,4 +1,7 @@
 # Model for forecasting BNP Paribas, Credit Agricole and Société Générale prices using ARIMA  
-to applied the ARIMA models (autoregressive integrated moving average) in order to predict future values, we data need need to show evidence of non-stationarity in the sense of mean (but not variance/autocovariance), where an initial differencing step (corresponding to the "integrated" part of the model) can be applied one or more times to eliminate the non-stationarity of the mean function (the trend). 
+As predictable, it's not as easy to predict stock value. I currently stop my model when i find out that the ACF show no srong evidence of correlation for the three values.  
+If anyone sees any errors in my code or a better model for predicting this data, please contact me or comment.   
+I just started analyzing data on Jupyter notebook and am eager to learn more.
+
 
 
