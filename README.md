@@ -26,7 +26,7 @@
 
 
 ARMA(p,q) : p = AR order : number of past values  
-q = MA order : number of past residuals
+            q = MA order : number of past residuals
             
 #
 #
