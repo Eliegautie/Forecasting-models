@@ -70,6 +70,11 @@ heteroskedasticity is when the variance of the underlying distribution used to c
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/c3cbd69a-71a6-4fe4-b2d5-5d179804b47f)
 
 
+Garch (p , q) : p = Arch order : number of past squared residuals
+                q = Garch order : number of past conditional variances
+
+
+
 
 
 
