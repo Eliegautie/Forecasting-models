@@ -34,6 +34,10 @@ ARMA(p,q) : p = AR order : number of past values
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/9012d249-25a3-4526-80c2-8f3bfcc7ddac)
 
 
+
+
+
+
 **ARCH/GARCH model : useful when the goal of the study is to analyze and forecast volatility :  Variance Model.**
 
 
