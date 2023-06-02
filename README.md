@@ -1,12 +1,20 @@
 # Price forecasting models:
 
-Within this repo, my goal is to make forecasts with the best model adapted to my data.  
-Coming from a master's degree in finance, I have had courses in econometrics during my studies and my interest in this field is growing as I start using it in personal projects.     
+AutoRegressive Model:
 
-**If anyone sees any errors in my code or a better model for predicting this data, please contact me or comment.**   
-I just started analyzing data on Jupyter notebook and am eager to learn more.
+-The AR model is simply an extension of the random walk that includes terms further back in time. 
+**The structure of the model is linear, that is the model depends linearly on the previous terms, with coefficients for each term**. This is where the "regressive" comes from in "autoregressive". It is essentially a regression model where the previous terms are the predictors.
+
+- the mean of a AR(p) process is 0
+- AR(1) = random walk
 
 
+MovingAverage Model:
+
+-**It is a linear combination of the past white noise terms**.
+
+
+![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/2e50f8a4-083b-4166-b6d7-9a32b8d9422f)
 
 
 
