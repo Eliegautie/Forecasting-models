@@ -10,11 +10,12 @@
 # MA Model : MovingAverage
 
 -It is a linear combination of the past white noise terms.
-#
-#
 
 
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/2e50f8a4-083b-4166-b6d7-9a32b8d9422f)
+
+#
+#
 
 
 
@@ -26,6 +27,9 @@
 
 ARMA(p,q) : p = AR order : number of past values
             q = MA order : number of past residuals
+            
+#
+#
 
 
 # ARIMA(p,d,q) Model:
@@ -34,7 +38,8 @@ ARMA(p,q) : p = AR order : number of past values
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/9012d249-25a3-4526-80c2-8f3bfcc7ddac)
 
 
-
+#
+#
 
 
 
@@ -48,6 +53,9 @@ ARMA(p,q) : p = AR order : number of past values
 - Heteroskedasticity : it is for non-constant variance.
 
 heteroskedasticity is when the variance of the underlying distribution used to construct our time series changes as a function of time
+
+#
+#
 
 
 # GARCH Model : Generalized AutoRegressive Condtional Heteroskedasticity:
