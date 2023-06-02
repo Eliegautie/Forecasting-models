@@ -58,7 +58,7 @@ ARMA(p,q) : p = AR order : number of past values
 #
 
 
-# GARCH Model : Generalized AutoRegressive Condtional Heteroskedasticity:
+# GARCH Model : Generalized AutoRegressive Conditional Heteroskedasticity:
 
 
 - In a **Garch(p,q)** model for condtional variance, forecasts depend on a (non-negatively) weighted sum of **past squared residuals** (from some condtional mean function model) and **past variance forecasts**.
