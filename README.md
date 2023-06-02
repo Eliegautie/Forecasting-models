@@ -25,8 +25,8 @@
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/7fc4f65d-3ced-4ae8-bcd9-abdb73244a82)
 
 
-ARMA(p,q) : p = AR order : number of past values
-            q = MA order : number of past residuals
+ARMA(p,q) : p = AR order : number of past values  
+q = MA order : number of past residuals
             
 #
 #
