@@ -1,6 +1,6 @@
 # AR Model : AutoRegressive
 
--The AR model is simply an extension of the random walk that includes terms further back in time. 
+- The AR model is simply an extension of the random walk that includes terms further back in time. 
 **The structure of the model is linear, that is the model depends linearly on the previous terms, with coefficients for each term**. This is where the "regressive" comes from in "autoregressive". It is essentially a regression model where the previous terms are the predictors.
 
 - the mean of a AR(p) process is 0
@@ -9,7 +9,7 @@
 
 # MA Model : MovingAverage
 
--It is a linear combination of the past white noise terms.
+- It is a linear combination of the past white noise terms.
 
 
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/2e50f8a4-083b-4166-b6d7-9a32b8d9422f)
@@ -52,7 +52,7 @@ ARMA(p,q) : p = AR order : number of past values
 - Conditional : variance depends upon past information
 - Heteroskedasticity : it is for non-constant variance.
 
-heteroskedasticity is when the variance of the underlying distribution used to construct our time series changes as a function of time
+- Heteroskedasticity = when the variance of the underlying distribution used to construct our time series changes as a function of time
 
 #
 #
