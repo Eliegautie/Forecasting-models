@@ -46,7 +46,7 @@ ARMA(p,q) : p = AR order : number of past values
 **ARCH/GARCH model : useful when the goal of the study is to analyze and forecast volatility :  Variance Model.**
 
 
-# ARCH Model : AutoRegressive Condtional Heteroskedasticity
+# ARCH Model : AutoRegressive Conditional Heteroskedasticity
 
 - Autoregressive : depends on its own past
 - Conditional : variance depends upon past information
