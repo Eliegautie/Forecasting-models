@@ -1,5 +1,3 @@
-# Price forecasting models:
-
 # AR Model : AutoRegressive
 
 -The AR model is simply an extension of the random walk that includes terms further back in time. 
@@ -12,6 +10,8 @@
 # MA Model : MovingAverage
 
 -It is a linear combination of the past white noise terms.
+#
+#
 
 
 ![image](https://github.com/Eliegautie/Forecasting-models/assets/105276166/2e50f8a4-083b-4166-b6d7-9a32b8d9422f)
